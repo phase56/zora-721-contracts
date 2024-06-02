@@ -52,4 +52,4 @@ The metadata renderer abstraction allows these drops contracts to power a variet
 
 ### Bug Bounty
 5 ETH for any critical bugs that could result in loss of funds.
-Rewards will be given for smaller bugs or ideas.
+Rewards will be given for smaller bugs or ideas cool.
